@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Natália Vieira
 
-- 🔭 Tech Recruiter
-- Recrutamento e Seleção
-- 👩‍💻 natalia.rh.recruiter@gmail.com.
 
 <div>
   <a href="https://github.com/29072021">
