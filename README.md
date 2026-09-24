@@ -1,5 +1,8 @@
-### Olá! Eu sou a Natália Vieira
+### Olá, eu sou a Natália Vieira da Silva! 👋
+Migrando de área com uma bagagem diversa: já passei por Pedagogia, Gestão de Recursos Humanos e Segurança do Trabalho, e agora estou construindo uma nova trajetória em Engenharia de Software
 
+🚀 Sobre minha transição de carreira
+Depois de atuar em áreas ligadas a pessoas, processos e segurança, decidi seguir para a tecnologia. Vejo essa mudança como uma forma de unir o que já aprendi sobre organização, comunicação e resolução de problemas com uma nova paixão: programação.
 
 <div>
   <a href="https://github.com/29072021">
